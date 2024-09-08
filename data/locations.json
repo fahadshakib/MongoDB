@@ -1,0 +1,99 @@
+[
+      {
+        "name": "Hatpukuriya Government Primary School",
+        "location": { "type": "Point", "coordinates": [ 90.9376793, 23.1184962 ] }
+      },
+      {
+        "name": "Hatpukuriya Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9376793 , 23.1184962 ]}
+      },
+      {
+        "name": "Fakir Bari Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9320504, 23.1144739 ]}
+      },
+      {
+        "name": "Bujju Dighir Par Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9365438, 23.1101365]}
+      },
+      {
+        "name": "Mozumder Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9339144, 23.1148697]}
+      },
+      {
+        "name": "Mozumder Bari Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9347541, 23.1145206]}
+      },
+      {
+        "name": "Bishnupur Government Primary School",
+        "location": { "type": "Point", "coordinates": [ 90.9350797, 23.103374]}
+      },
+      {
+        "name": "Bishnupur Bazar Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9356199, 23.1036414]}
+      },
+      {
+        "name": "Bishnupur Bazar",
+        "location": { "type": "Point", "coordinates": [ 90.9352081, 23.1032497]}
+      },
+      {
+        "name": "Noa Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9368361, 23.1179973]}
+      },
+      {
+        "name": "Sea Heaven Food Corner",
+        "location": { "type": "Point", "coordinates": [ 90.9378809, 23.1162266]}
+      },
+      {
+        "name": "Fakir (Mozumder) Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9392083, 23.1165186]}
+      },
+      {
+        "name": "Master Bari",
+        "location": { "type": "Point", "coordinates": [ 90.93731, 23.1056257]}
+      },
+      {
+        "name": "Mozumder Bari Government Primary School",
+        "location": { "type": "Point", "coordinates": [ 90.934803, 23.1145261]}
+      },
+      {
+        "name": "EPI vaccination center",
+        "location": { "type": "Point", "coordinates": [ 90.9361488, 23.1146944]}
+      },
+      {
+        "name": "Molla Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9388333, 23.1159431]}
+      },
+      {
+        "name": "Abdur Rahman Sheikh er Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9386037, 23.1170675]}
+      },
+      {
+        "name": "Ashok Sheikh er Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9359772, 23.1149252]}
+      },
+      {
+        "name": "Ali Market",
+        "location": { "type": "Point", "coordinates": [ 90.9379748, 23.1195385]}
+      },
+      {
+        "name": "Abu Bakar Siddique (R) Madrasa",
+        "location": { "type": "Point", "coordinates": [ 90.9367212, 23.1154106]}
+      },
+      {
+        "name": "Ashok Sheikh er Bari Mosque",
+        "location": { "type": "Point", "coordinates": [ 90.9367826, 23.1151575]}
+      },
+      {
+        "name": "Arif Store",
+        "location": { "type": "Point", "coordinates": [ 90.9369495, 23.1157625]}
+      },
+      {
+        "name": "Iman Uddin Munsi Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9385085, 23.1190153]}
+      },
+      {
+        "name": "Shornokar Bari",
+        "location": { "type": "Point", "coordinates": [ 90.9398366, 23.1201835]}
+      }
+]
+

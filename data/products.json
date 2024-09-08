@@ -1,0 +1,322 @@
+[
+    {
+      "name": "Logitech G502 HERO",
+      "price": 79,
+      "discount": 15,
+      "orderDate": "2024-08-15T00:00:00.000Z",
+      "tags": ["mouse", "logitech", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "Sam Green",
+          "rating": 5,
+          "comment": "Perfect for gaming, very responsive."
+        },
+        {
+          "user": "Emma Wilson",
+          "rating": 4,
+          "comment": "Great features, but a bit bulky."
+        },
+        {
+          "user": "Olivia Lee",
+          "rating": 4,
+          "comment": "Good for all-day use, but the weight adjustment is tricky."
+        },
+        {
+          "user": "Michael Scott",
+          "rating": 3,
+          "comment": "Average performance for the price."
+        }
+      ]
+    },
+    {
+      "name": "Razer DeathAdder V2",
+      "price": 89,
+      "discount": 10,
+      "orderDate": "2024-08-20T00:00:00.000Z",
+      "tags": ["mouse", "razer", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "Jake Turner",
+          "rating": 5,
+          "comment": "Fantastic for precision gaming."
+        },
+        {
+          "user": "Sophie Adams",
+          "rating": 4,
+          "comment": "Comfortable, but the cable could be more flexible."
+        },
+        {
+          "user": "Ryan Clark",
+          "rating": 4,
+          "comment": "Responsive and durable, but quite heavy."
+        },
+        {
+          "user": "Laura Brown",
+          "rating": 3,
+          "comment": "Not as comfortable as I hoped."
+        }
+      ]
+    },
+    {
+      "name": "Corsair Dark Core RGB/SE",
+      "price": 129,
+      "discount": 25,
+      "orderDate": "2024-08-22T00:00:00.000Z",
+      "tags": ["mouse", "corsair", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "Alex Moore",
+          "rating": 5,
+          "comment": "Great customization options and comfort."
+        },
+        {
+          "user": "Nina Harris",
+          "rating": 4,
+          "comment": "Good features, but the wireless could be better."
+        },
+        {
+          "user": "Liam Thompson",
+          "rating": 4,
+          "comment": "Ergonomic and stylish, but expensive."
+        },
+        {
+          "user": "Mia Davis",
+          "rating": 3,
+          "comment": "Decent mouse, but had issues with the battery life."
+        }
+      ]
+    },
+    {
+      "name": "SteelSeries Rival 600",
+      "price": 89,
+      "discount": 10,
+      "orderDate": "2024-08-25T00:00:00.000Z",
+      "tags": ["mouse", "steelseries", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "David Wilson",
+          "rating": 5,
+          "comment": "Excellent build quality and performance."
+        },
+        {
+          "user": "Grace Martin",
+          "rating": 4,
+          "comment": "Great for gaming, but a bit heavy."
+        },
+        {
+          "user": "Ethan White",
+          "rating": 4,
+          "comment": "Accurate and durable, but a bit pricey."
+        },
+        {
+          "user": "Samantha Jones",
+          "rating": 3,
+          "comment": "Good, but not as comfortable as I expected."
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Surface Arc Mouse",
+      "price": 79,
+      "discount": 5,
+      "orderDate": "2024-08-28T00:00:00.000Z",
+      "tags": ["mouse", "microsoft", "surface", "electronics"],
+      "reviews": [
+        {
+          "user": "Paul Miller",
+          "rating": 5,
+          "comment": "Innovative design and great portability."
+        },
+        {
+          "user": "Lucy Harris",
+          "rating": 4,
+          "comment": "Nice for travel, but not as comfortable for extended use."
+        },
+        {
+          "user": "Daniel Walker",
+          "rating": 4,
+          "comment": "Sleek and compact, but could be more ergonomic."
+        },
+        {
+          "user": "Emma Lewis",
+          "rating": 3,
+          "comment": "Good for short-term use, but not very durable."
+        }
+      ]
+    },
+    {
+      "name": "Logitech MX Vertical",
+      "price": 99,
+      "discount": 20,
+      "orderDate": "2024-08-30T00:00:00.000Z",
+      "tags": ["mouse", "logitech", "ergonomic", "electronics"],
+      "reviews": [
+        {
+          "user": "James Anderson",
+          "rating": 5,
+          "comment": "Excellent ergonomic design, very comfortable."
+        },
+        {
+          "user": "Olivia Martinez",
+          "rating": 4,
+          "comment": "Great for wrist relief, but takes time to get used to."
+        },
+        {
+          "user": "Chris Johnson",
+          "rating": 4,
+          "comment": "Effective design, but could use better software."
+        },
+        {
+          "user": "Nina Carter",
+          "rating": 3,
+          "comment": "Good concept, but the grip feels awkward."
+        }
+      ]
+    },
+    {
+      "name": "Razer Naga X",
+      "price": 79,
+      "discount": 15,
+      "orderDate": "2024-08-17T00:00:00.000Z",
+      "tags": ["mouse", "razer", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "Ethan Brown",
+          "rating": 5,
+          "comment": "Perfect for MMO games with its extra buttons."
+        },
+        {
+          "user": "Mia Wilson",
+          "rating": 4,
+          "comment": "Great for gaming, but a bit heavy."
+        },
+        {
+          "user": "Lucas Lee",
+          "rating": 4,
+          "comment": "Excellent features, but the button layout takes getting used to."
+        },
+        {
+          "user": "Sophia White",
+          "rating": 3,
+          "comment": "Good mouse, but the build quality could be better."
+        }
+      ]
+    },
+    {
+      "name": "Corsair M65 RGB Elite",
+      "price": 89,
+      "discount": 10,
+      "orderDate": "2024-08-18T00:00:00.000Z",
+      "tags": ["mouse", "corsair", "gaming", "electronics"],
+      "reviews": [
+        {
+          "user": "Logan Harris",
+          "rating": 5,
+          "comment": "Great build quality and RGB lighting."
+        },
+        {
+          "user": "Emily King",
+          "rating": 4,
+          "comment": "Good for FPS games, but a bit pricey."
+        },
+        {
+          "user": "Jackson Adams",
+          "rating": 4,
+          "comment": "Responsive and durable, but the weight adjustment could be better."
+        },
+        {
+          "user": "Ava Scott",
+          "rating": 3,
+          "comment": "Decent mouse, but not very comfortable for long sessions."
+        }
+      ]
+    },
+    {
+      "name": "HP X500 Wired Mouse",
+      "price": 29,
+      "discount": 10,
+      "orderDate": "2024-08-19T00:00:00.000Z",
+      "tags": ["mouse", "hp", "wired", "electronics"],
+      "reviews": [
+        {
+          "user": "Jacob Thomas",
+          "rating": 4,
+          "comment": "Good value for the price, basic but functional."
+        },
+        {
+          "user": "Aiden Clark",
+          "rating": 3,
+          "comment": "Basic features, but works well for everyday use."
+        },
+        {
+          "user": "Charlotte Hall",
+          "rating": 3,
+          "comment": "Decent performance, but the design is a bit plain."
+        },
+        {
+          "user": "Michael White",
+          "rating": 2,
+          "comment": "Average quality, expected more for the price."
+        }
+      ]
+    },
+    {
+      "name": "Dell MS116 Wired Mouse",
+      "price": 25,
+      "discount": 5,
+      "orderDate": "2024-08-21T00:00:00.000Z",
+      "tags": ["mouse", "dell", "wired", "electronics"],
+      "reviews": [
+        {
+          "user": "Liam Robinson",
+          "rating": 4,
+          "comment": "Affordable and reliable, good for office work."
+        },
+        {
+          "user": "Zoe Young",
+          "rating": 3,
+          "comment": "Simple and effective, but nothing special."
+        },
+        {
+          "user": "Matthew Harris",
+          "rating": 3,
+          "comment": "Functional, but could be more ergonomic."
+        },
+        {
+          "user": "Isabella Lewis",
+          "rating": 2,
+          "comment": "Basic mouse, not very durable."
+        }
+      ]
+    },
+    {
+      "name": "Logitech M720 Triathlon",
+      "price": 69,
+      "discount": 15,
+      "orderDate": "2024-08-23T00:00:00.000Z",
+      "tags": ["mouse", "logitech", "multi-device", "electronics"],
+      "reviews": [
+        {
+          "user": "Ella Martinez",
+          "rating": 5,
+          "comment": "Great for multitasking across devices."
+        },
+        {
+          "user": "Noah Brown",
+          "rating": 4,
+          "comment": "Very versatile, but a bit bulky."
+        },
+        {
+          "user": "Sophia Wilson",
+          "rating": 4,
+          "comment": "Works well with multiple devices, but the scroll wheel is noisy."
+        },
+        {
+          "user": "Jack Taylor",
+          "rating": 3,
+          "comment": "Good functionality, but feels cheap."
+        }
+      ]
+    }
+  ]
+  
